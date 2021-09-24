@@ -1,0 +1,1 @@
+# solid-1_single-responsibility-principle
